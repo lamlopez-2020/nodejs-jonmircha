@@ -1,8 +1,8 @@
 {
-    "name": "node-template",
+    "name": "nodejs-course",
     "version": "1.0.0",
     "type": "module",
-    "description": "Template for nodejs projects",
+    "description": "Nodejs fundamentals course with jonmircha",
     "scripts": {
         "dev": "nodemon src/index.js",
         "start": "node src/index.js",
