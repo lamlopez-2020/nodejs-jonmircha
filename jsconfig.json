@@ -3,7 +3,7 @@
         "module": "NodeNext",
         "baseUrl": "./",
         "paths": {
-            "#Lib/*": ["./src/lib/*"]
+            "#Cur/*": ["src/cur/*"]
         }
     },
     "exclude": ["node_modules"]

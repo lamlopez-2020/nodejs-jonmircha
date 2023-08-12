@@ -29,7 +29,7 @@
         "prettier": "3.0.1"
     },
     "imports": {
-        "#Lib/*": "./src/lib/*"
+        "#Cur/*": "./src/cur/*"
     },
     "lint-staged": {
         "*.js": "eslint --fix",
